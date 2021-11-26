@@ -1,4 +1,4 @@
-## About me
+<!-- ## About me -->
 Hey there, Clifford here!
 
 If you are here it means I probably did something right.
