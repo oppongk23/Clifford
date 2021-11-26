@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## About me
+
+I try to do simple things successively to finish something bigger. I write cos I enjoy talking 😬. My interests lie mostly in Machine Learning, Deep Learning, and Data Science. I find Computer Vision and Natutral. Language Processing very fascinating. You'll find that many of my projects are in this area. I also spend some time with optical communications using lasers.
+
 
 You can use the [editor on GitHub](https://github.com/oppongk23/Clifford-Boakye-Mensah/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
