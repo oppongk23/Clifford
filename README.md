@@ -1,6 +1,14 @@
 ## About me
+Hey there, Clifford here!
 
-I try to do simple things successively to finish something bigger. I write cos I enjoy talking 😬. My interests lie mostly in Machine Learning, Deep Learning, and Data Science. I find Computer Vision and Natutral. Language Processing very fascinating. You'll find that many of my projects are in this area. I also spend some time with optical communications using lasers.
+If you are here it means I probably did something right.
+
+I try to do simple things successively to finish something bigger. I write because I enjoy talking and I do that a little too much sometimes😬. My interests lie mostly in Machine Learning, Deep Learning, and Data Science. I find Computer Vision and Natutral Language Processing very fascinating. You'll find that many of my projects are in this area. 
+
+I also have an active interest in Underwater Optical Communications and I may have a project or two on that.
+
+You can find all my [projects]() here. 
+I can be contacted via [Twitter](https://twitter.com/__oppong), [LinkedIn](https://www.linkedin.com/in/clifford-boakye-mensah-031aa8142/). 
 
 
 You can use the [editor on GitHub](https://github.com/oppongk23/Clifford-Boakye-Mensah/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
