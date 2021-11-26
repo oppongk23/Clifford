@@ -8,7 +8,7 @@ I try to do simple things successively to finish something bigger. I write becau
 I also have an active interest in Underwater Optical Communications and I may have a project or two on that.
 
 You can find all my [projects]() here. 
-I can be contacted via [Email](coboakyemensah@gmail.com), [Twitter](https://twitter.com/__oppong), and [LinkedIn](https://www.linkedin.com/in/clifford-boakye-mensah-031aa8142/). 
+I can be contacted via [Email](mailto:coboakyemensah@gmail.com), [Twitter](https://twitter.com/__oppong), and [LinkedIn](https://www.linkedin.com/in/clifford-boakye-mensah-031aa8142/). 
 
 
 You can use the [editor on GitHub](https://github.com/oppongk23/Clifford-Boakye-Mensah/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
