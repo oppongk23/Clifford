@@ -7,5 +7,5 @@ I try to do simple things successively to finish something bigger. I write becau
 
 I also have an active interest in Underwater Optical Communications and I may have a project or two on that.
 
-You can find all my [projects](https://github.com/oppongk23/Projects/blob/2158f5ca558fcf2b39384719d25207f032daa346/README.md) here. 
+You can find all my [projects](https://oppongk23.github.io/Image-Classification-ANN/) here. 
 I can be contacted via [Email](mailto:coboakyemensah@gmail.com), [Twitter](https://twitter.com/__oppong), and [LinkedIn](https://www.linkedin.com/in/clifford-boakye-mensah-031aa8142/). 
